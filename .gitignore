@@ -3,4 +3,4 @@
 /outputs
 /proxy_dataset
 /contrast_exps
-/TrainedModels/.*
+/TrainedModels
